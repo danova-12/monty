@@ -1,1 +1,1 @@
-the project about c data structure 
+stack and queue
